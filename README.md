@@ -23,4 +23,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 <p align="middle">
   <img src="https://user-images.githubusercontent.com/56905673/127728975-ad97e89a-4bf0-49da-8014-4cd00332b6cd.jpg" width="300"/>
+  <img src="https://user-images.githubusercontent.com/56905673/127809467-dddcc383-e213-417e-89d8-41b2416ecc6f.png" width="300"/>
 </p>
